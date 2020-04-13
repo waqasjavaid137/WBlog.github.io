@@ -1,2 +1,2 @@
-# WBlog.github.io
+# waqasjavaid137.github.io
 My blog page
